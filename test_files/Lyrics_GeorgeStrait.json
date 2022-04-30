@@ -1,0 +1,1873 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/15101",
+ "description": {
+  "plain": "George Harvey Strait, Sr. (born May 18, 1952), is an American country music singer, actor, and music producer known as the \u201cKing of Country\u201d and called a living legend by some critics. He is known for his neotraditionalist country style."
+ },
+ "facebook_name": "GeorgeStrait",
+ "followers_count": 39,
+ "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+ "id": 15101,
+ "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "George Strait",
+ "translation_artist": false,
+ "twitter_name": "GeorgeStrait",
+ "url": "https://genius.com/artists/George-strait",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11524,
+  "annotator_login": "tomi",
+  "api_path": "/referents/6937972",
+  "classification": "accepted",
+  "fragment": "George Strait",
+  "id": 6937972,
+  "is_description": true,
+  "path": "/6937972/George-strait/George-strait",
+  "range": {
+   "content": "George Strait"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6937972/George-strait/George-strait",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/15101",
+   "context": null,
+   "id": 15101,
+   "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+   "link_title": "George Strait",
+   "title": "George Strait",
+   "type": "Artist",
+   "url": "https://genius.com/artists/George-strait"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6937972",
+    "body": {
+     "plain": "George Harvey Strait, Sr. (born May 18, 1952), is an American country music singer, actor, and music producer known as the \u201cKing of Country\u201d and called a living legend by some critics. He is known for his neotraditionalist country style."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6937972,
+    "pinned": false,
+    "share_url": "https://genius.com/6937972",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6937972/George-strait/George-strait",
+    "verified": false,
+    "votes_total": 12,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 289466,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 13,
+   "api_path": "/songs/59820",
+   "artist_names": "George Strait",
+   "full_title": "All My Ex\u2019s Live in Texas by\u00a0George\u00a0Strait",
+   "header_image_thumbnail_url": "https://images.genius.com/d224942b1093e4be3903d6c0c870ca62.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d224942b1093e4be3903d6c0c870ca62.1000x1000x1.jpg",
+   "id": 59820,
+   "lyrics_owner_id": 50840,
+   "lyrics_state": "complete",
+   "path": "/George-strait-all-my-exs-live-in-texas-lyrics",
+   "pyongs_count": 20,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ddf577b2e1ef73d3553e1aa6a7a49824.220x224x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ddf577b2e1ef73d3553e1aa6a7a49824.220x224x1.jpg",
+   "stats": {
+    "accepted_annotations": 12,
+    "contributors": 23,
+    "iq_earners": 23,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 52216
+   },
+   "title": "All My Ex\u2019s Live in Texas",
+   "title_with_featured": "All My Ex\u2019s Live in Texas",
+   "url": "https://genius.com/George-strait-all-my-exs-live-in-texas-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/15101",
+    "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+    "id": 15101,
+    "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "George Strait",
+    "url": "https://genius.com/artists/George-strait"
+   },
+   "apple_music_id": "1039002290",
+   "apple_music_player_url": "https://genius.com/songs/59820/apple_music_player",
+   "description": {
+    "plain": "Strait declares that all four of his ex-partners live in various towns in the state of Texas (e.g. \u201csweet Eileen in Abilene\u201d), and that is why he lives in Tennessee. The song is known for its Western Swing style rhythm."
+   },
+   "embed_content": "<div id='rg_embed_link_59820' class='rg_embed_link' data-song-id='59820'>Read <a href='https://genius.com/George-strait-all-my-exs-live-in-texas-lyrics'>\u201cAll My Ex\u2019s Live in Texas\u201d by George\u00a0Strait</a> on Genius</div> <script crossorigin src='//genius.com/songs/59820/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1987-04-10",
+   "release_date_for_display": "April 10, 1987",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/13347",
+    "cover_art_url": "https://images.genius.com/1742d2ec4017037eface76c7c66653a1.1000x1000x1.jpg",
+    "full_title": "Ocean Front Property by George Strait",
+    "id": 13347,
+    "name": "Ocean Front Property",
+    "url": "https://genius.com/albums/George-strait/Ocean-front-property",
+    "artist": {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50840,
+    "annotator_login": "TheyCallMeTravis",
+    "api_path": "/referents/3549365",
+    "classification": "accepted",
+    "fragment": "All My Ex\u2019s Live in Texas",
+    "id": 3549365,
+    "is_description": true,
+    "path": "/3549365/George-strait-all-my-exs-live-in-texas/All-my-exs-live-in-texas",
+    "range": {
+     "content": "All My Ex\u2019s Live in Texas"
+    },
+    "song_id": 59820,
+    "url": "https://genius.com/3549365/George-strait-all-my-exs-live-in-texas/All-my-exs-live-in-texas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/59820",
+     "client_timestamps": {
+      "updated_by_human_at": 1623732041,
+      "lyrics_updated_at": 1559588452
+     },
+     "context": "George Strait",
+     "id": 59820,
+     "image_url": "https://images.genius.com/ddf577b2e1ef73d3553e1aa6a7a49824.220x224x1.jpg",
+     "link_title": "All My Ex\u2019s Live in Texas by\u00a0George\u00a0Strait",
+     "title": "All My Ex\u2019s Live in Texas",
+     "type": "Song",
+     "url": "https://genius.com/George-strait-all-my-exs-live-in-texas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3549365",
+      "body": {
+       "plain": "Strait declares that all four of his ex-partners live in various towns in the state of Texas (e.g. \u201csweet Eileen in Abilene\u201d), and that is why he lives in Tennessee. The song is known for its Western Swing style rhythm."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3549365,
+      "pinned": false,
+      "share_url": "https://genius.com/3549365",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3549365/George-strait-all-my-exs-live-in-texas/All-my-exs-live-in-texas",
+      "verified": false,
+      "votes_total": 8,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.7804878048780488,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8625701",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1bc929dec7aaed899198fbaa6d6efe4a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1bc929dec7aaed899198fbaa6d6efe4a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8625701,
+         "iq": 2303,
+         "login": "Payno_Wins",
+         "name": "Payno_Wins",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Payno_Wins",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.17073170731707318,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/324195",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17e00fb07297aa33e4dc5ac63f2c0bc8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cMIlPVvTWed7dnjN9jWS_black-white-thundercloud-lighting-strikes-storm-animated-gif.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 324195,
+         "iq": 38875,
+         "login": "Jeyz24",
+         "name": "Jeyz24",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Jeyz24",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.04878048780487805,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/140605",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+         "human_readable_role_for_display": "Moderator",
+         "id": 140605,
+         "iq": 329799,
+         "login": "MrXercules",
+         "name": "MrXercules",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/MrXercules",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:61FfiL8hYFXh5qe7tuBsar",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/61FfiL8hYFXh5qe7tuBsar"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QuJroujjYDk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    },
+    {
+     "api_path": "/artists/44869",
+     "header_image_url": "https://images.genius.com/ac5e55ad16d3c79181ad05c0bae5b5c6.220x220x1.jpg",
+     "id": 44869,
+     "image_url": "https://images.genius.com/ac5e55ad16d3c79181ad05c0bae5b5c6.220x220x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jimmy Bowen",
+     "url": "https://genius.com/artists/Jimmy-bowen"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6848284",
+       "artist_names": "Jordan Matthew Young & Blake Shelton",
+       "full_title": "All My Ex\u2019s Live In Texas by\u00a0Jordan\u00a0Matthew Young & Blake Shelton",
+       "header_image_thumbnail_url": "https://images.genius.com/dda1b4113673de054f2133c94af23f84.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/dda1b4113673de054f2133c94af23f84.600x600x1.jpg",
+       "id": 6848284,
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Jordan-matthew-young-and-blake-shelton-all-my-exs-live-in-texas-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/dda1b4113673de054f2133c94af23f84.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/dda1b4113673de054f2133c94af23f84.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "All My Ex\u2019s Live In Texas",
+       "title_with_featured": "All My Ex\u2019s Live In Texas",
+       "url": "https://genius.com/Jordan-matthew-young-and-blake-shelton-all-my-exs-live-in-texas-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2748849",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+        "id": 2748849,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jordan Matthew Young & Blake Shelton",
+        "url": "https://genius.com/artists/Jordan-matthew-young-and-blake-shelton"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1828181",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+     "id": 1828181,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lyndia Shafer",
+     "url": "https://genius.com/artists/Lyndia-shafer"
+    },
+    {
+     "api_path": "/artists/505606",
+     "header_image_url": "https://images.genius.com/462e6e9a6ad9824ab5af98ae96224a75.479x479x1.png",
+     "id": 505606,
+     "image_url": "https://images.genius.com/462e6e9a6ad9824ab5af98ae96224a75.479x479x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sanger D. Shafer",
+     "url": "https://genius.com/artists/Sanger-d-shafer"
+    }
+   ],
+   "artist": "George Strait",
+   "lyrics": "[Chorus]\nAll my ex's live in Texas\nAnd Texas is the place I'd dearly love to be\nBut all my ex's live in Texas\nAnd that's why I hang my hat in Tennessee\n\n[Verse 1]\nRosanna's down in Texarkana\nWanted me to push her broom\nSweet Eileen's in Abilene\nShe forgot I hung the moon\nAnd Allison's in Galveston\nSomehow lost her sanity\nAnd Dimples who now lives in Temple's\nGot the law looking for me\n\n[Chorus]\nAll my ex's live in Texas\nAnd Texas is the place I'd dearly love to be\nBut all my ex's live in Texas\nAnd that's why I hang my hat in Tennessee\n\n[Verse 2]\nI remember that old Frio River\nWhere I learned to swim\nBut it brings to mind another time\nWhere I wore my welcome thin\nBy transcendental meditation\nI go there each night\nBut I always come back to myself\nLong before daylight\n[Chorus]\nAll my ex's live in Texas\nAnd Texas is the place I'd dearly love to be\nBut all my ex's live in Texas\nAnd therefor I reside in Tennessee\n\n[Bridge]\nSome folks think I'm hiding\nIt's been rumored that I died\nBut I'm alive and well in Tennessee20EmbedShare URLCopyEmbedCopy"
+  },
+  {
+   "annotation_count": 13,
+   "api_path": "/songs/191103",
+   "artist_names": "George Strait",
+   "full_title": "Amarillo by Morning by\u00a0George\u00a0Strait",
+   "header_image_thumbnail_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.1000x1000x1.jpg",
+   "id": 191103,
+   "lyrics_owner_id": 225672,
+   "lyrics_state": "complete",
+   "path": "/George-strait-amarillo-by-morning-lyrics",
+   "pyongs_count": 7,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 12,
+    "contributors": 18,
+    "iq_earners": 18,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 47896
+   },
+   "title": "Amarillo by Morning",
+   "title_with_featured": "Amarillo by Morning",
+   "url": "https://genius.com/George-strait-amarillo-by-morning-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/15101",
+    "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+    "id": 15101,
+    "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "George Strait",
+    "url": "https://genius.com/artists/George-strait"
+   },
+   "apple_music_id": "1038994099",
+   "apple_music_player_url": "https://genius.com/songs/191103/apple_music_player",
+   "description": {
+    "plain": "Written by Terry Stafford and Paul Fraser, and originally recorded by Stafford in 1973, George Strait most-famously cut the song on his 1983 album, \u201cStrait from the Heart.\u201d  His version hit #4 on the Billboard charts and solidified Strait\u2019s unique country persona \u2013 he would go on to record some 60+ Billboard hits and become the \u201cKing of Country.\u201d\n\nThe success of this song also galvanized Amarillo\u2019s place in country music legend \u2013 the city has subsequently garnered reference in songs like Jason Aldean\u2019s \u201cAmarillo Sky\u201d and Brad Paisley\u2019s \u201cThis is Country Music\u201d.\n\nThe rodeo has similarly been explored again and again, perhaps most notably in Garth Brooks' \u201cRodeo\u201d\n\nhttps://www.youtube.com/watch?v=wtVeDaZxAXo"
+   },
+   "embed_content": "<div id='rg_embed_link_191103' class='rg_embed_link' data-song-id='191103'>Read <a href='https://genius.com/George-strait-amarillo-by-morning-lyrics'>\u201cAmarillo by Morning\u201d by George\u00a0Strait</a> on Genius</div> <script crossorigin src='//genius.com/songs/191103/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1983-01-14",
+   "release_date_for_display": "January 14, 1983",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/39808",
+    "cover_art_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.1000x1000x1.jpg",
+    "full_title": "Strait from the Heart by George Strait",
+    "id": 39808,
+    "name": "Strait from the Heart",
+    "url": "https://genius.com/albums/George-strait/Strait-from-the-heart",
+    "artist": {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1321216,
+    "annotator_login": "ShesGoneCountry",
+    "api_path": "/referents/3655597",
+    "classification": "accepted",
+    "fragment": "Amarillo by Morning",
+    "id": 3655597,
+    "is_description": true,
+    "path": "/3655597/George-strait-amarillo-by-morning/Amarillo-by-morning",
+    "range": {
+     "content": "Amarillo by Morning"
+    },
+    "song_id": 191103,
+    "url": "https://genius.com/3655597/George-strait-amarillo-by-morning/Amarillo-by-morning",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/191103",
+     "client_timestamps": {
+      "updated_by_human_at": 1630965672,
+      "lyrics_updated_at": 1593120511
+     },
+     "context": "George Strait",
+     "id": 191103,
+     "image_url": "https://images.genius.com/f80f7f4e6b69bf0c4ae514ab649a8025.1000x1000x1.jpg",
+     "link_title": "Amarillo by Morning by\u00a0George\u00a0Strait",
+     "title": "Amarillo by Morning",
+     "type": "Song",
+     "url": "https://genius.com/George-strait-amarillo-by-morning-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3655597",
+      "body": {
+       "plain": "Written by Terry Stafford and Paul Fraser, and originally recorded by Stafford in 1973, George Strait most-famously cut the song on his 1983 album, \u201cStrait from the Heart.\u201d  His version hit #4 on the Billboard charts and solidified Strait\u2019s unique country persona \u2013 he would go on to record some 60+ Billboard hits and become the \u201cKing of Country.\u201d\n\nThe success of this song also galvanized Amarillo\u2019s place in country music legend \u2013 the city has subsequently garnered reference in songs like Jason Aldean\u2019s \u201cAmarillo Sky\u201d and Brad Paisley\u2019s \u201cThis is Country Music\u201d.\n\nThe rodeo has similarly been explored again and again, perhaps most notably in Garth Brooks' \u201cRodeo\u201d\n\nhttps://www.youtube.com/watch?v=wtVeDaZxAXo"
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3655597,
+      "pinned": false,
+      "share_url": "https://genius.com/3655597",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3655597/George-strait-amarillo-by-morning/Amarillo-by-morning",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5766423357664234,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/190012",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 190012,
+         "iq": 79195,
+         "login": "XenaWarriorPrincess",
+         "name": "Peter Nowogrodzki",
+         "role_for_display": "editor",
+         "url": "https://genius.com/XenaWarriorPrincess",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.41605839416058393,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1321216",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1635954329",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1635954329",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1635954329",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1321216,
+         "iq": 789,
+         "login": "ShesGoneCountry",
+         "name": "ShesGoneCountry",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ShesGoneCountry",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0072992700729927005,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1714416",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/331a78ecde68020217ac25f906d0ee91",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/331a78ecde68020217ac25f906d0ee91",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/331a78ecde68020217ac25f906d0ee91",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/331a78ecde68020217ac25f906d0ee91",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/331a78ecde68020217ac25f906d0ee91",
+         "human_readable_role_for_display": "Editor",
+         "id": 1714416,
+         "iq": 71682,
+         "login": "WWJames",
+         "name": "WWJames",
+         "role_for_display": "editor",
+         "url": "https://genius.com/WWJames",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3Ig9gmkoKZMAGgCXu1bwdH",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3Ig9gmkoKZMAGgCXu1bwdH"
+    },
+    {
+     "attribution": "george strait music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/george-strait-music/amarillo-by-morning"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wtVeDaZxAXo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/502349",
+     "header_image_url": "https://images.genius.com/7164c72c6467f9d628186dc1655b2851.163x163x1.png",
+     "id": 502349,
+     "image_url": "https://images.genius.com/7164c72c6467f9d628186dc1655b2851.163x163x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Blake Mevis",
+     "url": "https://genius.com/artists/Blake-mevis"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5867295",
+       "artist_names": "Spencer Crandall",
+       "full_title": "Amarillo Sunrise by\u00a0Spencer\u00a0Crandall",
+       "header_image_thumbnail_url": "https://images.genius.com/6d45038c2a39e716c89818ba2993c5aa.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6d45038c2a39e716c89818ba2993c5aa.1000x1000x1.jpg",
+       "id": 5867295,
+       "lyrics_owner_id": 6639853,
+       "lyrics_state": "complete",
+       "path": "/Spencer-crandall-amarillo-sunrise-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6d45038c2a39e716c89818ba2993c5aa.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6d45038c2a39e716c89818ba2993c5aa.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Amarillo Sunrise",
+       "title_with_featured": "Amarillo Sunrise",
+       "url": "https://genius.com/Spencer-crandall-amarillo-sunrise-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1052681",
+        "header_image_url": "https://images.genius.com/0a752c22b9946ce10ffde34bf3d027a1.1000x600x1.jpg",
+        "id": 1052681,
+        "image_url": "https://images.genius.com/567a7cb9586879bf709abf43179f7a61.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Spencer Crandall",
+        "url": "https://genius.com/artists/Spencer-crandall"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6493339",
+       "artist_names": "Terry Stafford",
+       "full_title": "Amarillo By Morning by\u00a0Terry\u00a0Stafford",
+       "header_image_thumbnail_url": "https://images.genius.com/ef4a6eef7ce34e82762187a2826114ad.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ef4a6eef7ce34e82762187a2826114ad.599x599x1.jpg",
+       "id": 6493339,
+       "lyrics_owner_id": 6022123,
+       "lyrics_state": "complete",
+       "path": "/Terry-stafford-amarillo-by-morning-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ef4a6eef7ce34e82762187a2826114ad.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ef4a6eef7ce34e82762187a2826114ad.599x599x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Amarillo By Morning",
+       "title_with_featured": "Amarillo By Morning",
+       "url": "https://genius.com/Terry-stafford-amarillo-by-morning-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/405126",
+        "header_image_url": "https://images.genius.com/01361266e5cf0066dd064e4dec668286.276x183x1.jpg",
+        "id": 405126,
+        "image_url": "https://images.genius.com/6c1a2946f5b6dbfddedac853bcbbf5f2.235x235x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Terry Stafford",
+        "url": "https://genius.com/artists/Terry-stafford"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3057872",
+       "artist_names": "Z\u00e9 Ramalho",
+       "full_title": "Entre a Serpente e a Estrela by\u00a0Z\u00e9\u00a0Ramalho",
+       "header_image_thumbnail_url": "https://images.genius.com/a1aebfef801d2c5654fe6d0cfa1be92e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a1aebfef801d2c5654fe6d0cfa1be92e.1000x1000x1.jpg",
+       "id": 3057872,
+       "lyrics_owner_id": 316521,
+       "lyrics_state": "complete",
+       "path": "/Ze-ramalho-entre-a-serpente-e-a-estrela-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a1aebfef801d2c5654fe6d0cfa1be92e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a1aebfef801d2c5654fe6d0cfa1be92e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Entre a Serpente e a Estrela",
+       "title_with_featured": "Entre a Serpente e a Estrela",
+       "url": "https://genius.com/Ze-ramalho-entre-a-serpente-e-a-estrela-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/324811",
+        "header_image_url": "https://images.genius.com/e5555f4f32f680038a08e0b54eba6531.960x462x1.jpg",
+        "id": 324811,
+        "image_url": "https://images.genius.com/22cc3fd6226ee24eec5bad0c9fe75b02.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Z\u00e9 Ramalho",
+        "url": "https://genius.com/artists/Ze-ramalho"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3484722",
+       "artist_names": "Fancey",
+       "full_title": "Amarillo By Morning by\u00a0Fancey",
+       "header_image_thumbnail_url": "https://images.genius.com/010669ace4cce8b86c87c183627f6b8e.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/010669ace4cce8b86c87c183627f6b8e.200x200x1.jpg",
+       "id": 3484722,
+       "lyrics_owner_id": 3489445,
+       "lyrics_state": "complete",
+       "path": "/Fancey-amarillo-by-morning-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/010669ace4cce8b86c87c183627f6b8e.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/010669ace4cce8b86c87c183627f6b8e.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Amarillo By Morning",
+       "title_with_featured": "Amarillo By Morning",
+       "url": "https://genius.com/Fancey-amarillo-by-morning-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1352412",
+        "header_image_url": "https://images.genius.com/66b0343dbdc256715ea2383743c1959e.365x365x1.jpg",
+        "id": 1352412,
+        "image_url": "https://images.genius.com/86e464220cd05f071c42569f24a791d6.667x667x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fancey",
+        "url": "https://genius.com/artists/Fancey"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4872859",
+       "artist_names": "Ronnie Dunn",
+       "full_title": "Amarillo by Morning by\u00a0Ronnie\u00a0Dunn",
+       "header_image_thumbnail_url": "https://images.genius.com/6d0586c57e69ab00c6012c8bc2823c11.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6d0586c57e69ab00c6012c8bc2823c11.640x640x1.jpg",
+       "id": 4872859,
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Ronnie-dunn-amarillo-by-morning-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6d0586c57e69ab00c6012c8bc2823c11.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6d0586c57e69ab00c6012c8bc2823c11.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Amarillo by Morning",
+       "title_with_featured": "Amarillo by Morning",
+       "url": "https://genius.com/Ronnie-dunn-amarillo-by-morning-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/57361",
+        "header_image_url": "https://images.genius.com/374a8b0613de00d06c4eac3beed067dc.300x441x1.jpg",
+        "id": 57361,
+        "image_url": "https://images.genius.com/a56413d8e7198ce3df4a5e835d2c26a7.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ronnie Dunn",
+        "url": "https://genius.com/artists/Ronnie-dunn"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6828895",
+       "artist_names": "Dustin Hulett",
+       "full_title": "Amarillo by Morning by\u00a0Dustin\u00a0Hulett",
+       "header_image_thumbnail_url": "https://images.genius.com/2c410e2412d6a09376e1288941ea1263.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/2c410e2412d6a09376e1288941ea1263.480x360x1.jpg",
+       "id": 6828895,
+       "lyrics_owner_id": 8348099,
+       "lyrics_state": "complete",
+       "path": "/Dustin-hulett-amarillo-by-morning-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2c410e2412d6a09376e1288941ea1263.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2c410e2412d6a09376e1288941ea1263.480x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Amarillo by Morning",
+       "title_with_featured": "Amarillo by Morning",
+       "url": "https://genius.com/Dustin-hulett-amarillo-by-morning-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2597560",
+        "header_image_url": "https://images.genius.com/b0aa51409ac3fdb314b1f832fcb0ffc7.720x720x1.jpg",
+        "id": 2597560,
+        "image_url": "https://images.genius.com/9a3b895a912039fdd436f25511626082.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dustin Hulett",
+        "url": "https://genius.com/artists/Dustin-hulett"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/405126",
+     "header_image_url": "https://images.genius.com/01361266e5cf0066dd064e4dec668286.276x183x1.jpg",
+     "id": 405126,
+     "image_url": "https://images.genius.com/6c1a2946f5b6dbfddedac853bcbbf5f2.235x235x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terry Stafford",
+     "url": "https://genius.com/artists/Terry-stafford"
+    },
+    {
+     "api_path": "/artists/1012780",
+     "header_image_url": "https://images.genius.com/c2a17840011b83ba6d1ccd1014f28ff8.402x217x1.jpg",
+     "id": 1012780,
+     "image_url": "https://images.genius.com/aa5eee62ec71fb720db2f70a440e23d3.171x171x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Fraser",
+     "url": "https://genius.com/artists/Paul-fraser"
+    }
+   ],
+   "artist": "George Strait",
+   "lyrics": "[Chorus]\nAmarillo by morning, up from San Antone\nEverything that I've got is just what I've got on\nWhen that sun is high in that Texas sky\nI'll be bucking at the county fair\nAmarillo by morning, Amarillo I'll be there\n\n[Verse]\nThey took my saddle in Houston, broke my leg in Santa Fe\nLost my wife and a girlfriend somewhere along the way\nWell I'll be looking for eight when they pull that gate\nAnd I hope that judge ain't blind\nAmarillo by morning, Amarillo's on my mind\n\n[Chorus]\nAmarillo by morning, up from San Antone\nEverything that I've got is just what I've got on\nI ain't got a dime, but what I got is mine\nI ain't rich, but Lord I'm free\nAmarillo by morning, Amarillo's where I'll be\nAmarillo by morning, Amarillo's where I'll be7EmbedShare URLCopyEmbedCopy"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/192255",
+   "artist_names": "George Strait",
+   "full_title": "Here for a Good Time by\u00a0George\u00a0Strait",
+   "header_image_thumbnail_url": "https://images.genius.com/0ad874b4508bb3861048d9e71ce7b923.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0ad874b4508bb3861048d9e71ce7b923.1000x1000x1.jpg",
+   "id": 192255,
+   "lyrics_owner_id": 225680,
+   "lyrics_state": "complete",
+   "path": "/George-strait-here-for-a-good-time-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d9e50a6bf7e5c9b4ec95c749a803de81.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d9e50a6bf7e5c9b4ec95c749a803de81.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 30380
+   },
+   "title": "Here for a Good Time",
+   "title_with_featured": "Here for a Good Time",
+   "url": "https://genius.com/George-strait-here-for-a-good-time-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/15101",
+    "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+    "id": 15101,
+    "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "George Strait",
+    "url": "https://genius.com/artists/George-strait"
+   },
+   "apple_music_id": "456127779",
+   "apple_music_player_url": "https://genius.com/songs/192255/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_192255' class='rg_embed_link' data-song-id='192255'>Read <a href='https://genius.com/George-strait-here-for-a-good-time-lyrics'>\u201cHere for a Good Time\u201d by George\u00a0Strait</a> on Genius</div> <script crossorigin src='//genius.com/songs/192255/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-09-06",
+   "release_date_for_display": "September 6, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/40012",
+    "cover_art_url": "https://images.genius.com/3cd8fe6bc06811316cd93822386060f9.1000x1000x1.jpg",
+    "full_title": "Here for a Good Time by George Strait",
+    "id": 40012,
+    "name": "Here for a Good Time",
+    "url": "https://genius.com/albums/George-strait/Here-for-a-good-time",
+    "artist": {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1191665",
+       "header_image_url": "https://images.genius.com/e369807ebcfab7c770e16315f128a688.298x132x1.jpg",
+       "id": 1191665,
+       "image_url": "https://images.genius.com/3750b70a27059d64b1bb4e12e170b944.240x240x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "MCA Nashville",
+       "url": "https://genius.com/artists/Mca-nashville"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 225680,
+    "annotator_login": "chinna",
+    "api_path": "/referents/3724740",
+    "classification": "needs_exegesis",
+    "fragment": "Here for a Good Time",
+    "id": 3724740,
+    "is_description": true,
+    "path": "/3724740/George-strait-here-for-a-good-time/Here-for-a-good-time",
+    "range": {
+     "content": "Here for a Good Time"
+    },
+    "song_id": 192255,
+    "url": "https://genius.com/3724740/George-strait-here-for-a-good-time/Here-for-a-good-time",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/192255",
+     "client_timestamps": {
+      "updated_by_human_at": 1630032780,
+      "lyrics_updated_at": 1622577801
+     },
+     "context": "George Strait",
+     "id": 192255,
+     "image_url": "https://images.genius.com/d9e50a6bf7e5c9b4ec95c749a803de81.300x300x1.jpg",
+     "link_title": "Here for a Good Time by\u00a0George\u00a0Strait",
+     "title": "Here for a Good Time",
+     "type": "Song",
+     "url": "https://genius.com/George-strait-here-for-a-good-time-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3724740",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3724740,
+      "pinned": false,
+      "share_url": "https://genius.com/3724740",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3724740/George-strait-here-for-a-good-time/Here-for-a-good-time",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/225680",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/NQKhTMOfSlGwAZ5PE7ew.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/NQKhTMOfSlGwAZ5PE7ew.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/NQKhTMOfSlGwAZ5PE7ew.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/NQKhTMOfSlGwAZ5PE7ew.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/NQKhTMOfSlGwAZ5PE7ew.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 225680,
+         "iq": 102762,
+         "login": "chinna",
+         "name": "chinna",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/chinna",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:23CzqFXnFgaJo2L9vJXWHN",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/23CzqFXnFgaJo2L9vJXWHN"
+    },
+    {
+     "attribution": "george strait music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/george-strait-music/here-for-a-good-time-album"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Sl3lcTZN7fI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    },
+    {
+     "api_path": "/artists/103908",
+     "header_image_url": "https://images.genius.com/71f01a38919d336108197f40243b72e5.250x250x1.jpg",
+     "id": 103908,
+     "image_url": "https://images.genius.com/71f01a38919d336108197f40243b72e5.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Brown",
+     "url": "https://genius.com/artists/Tony-brown"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 41,
+       "api_path": "/songs/693878",
+       "artist_names": "Big Sean (Ft. Drake & Kanye West)",
+       "full_title": "Blessings by\u00a0Big\u00a0Sean (Ft.\u00a0Drake & Kanye\u00a0West)",
+       "header_image_thumbnail_url": "https://images.genius.com/cd7dbd335d1e45d36e0c2b2f0197c627.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cd7dbd335d1e45d36e0c2b2f0197c627.300x300x1.jpg",
+       "id": 693878,
+       "lyrics_owner_id": 599242,
+       "lyrics_state": "complete",
+       "path": "/Big-sean-blessings-lyrics",
+       "pyongs_count": 1419,
+       "song_art_image_thumbnail_url": "https://images.genius.com/cd7dbd335d1e45d36e0c2b2f0197c627.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cd7dbd335d1e45d36e0c2b2f0197c627.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 3179682
+       },
+       "title": "Blessings",
+       "title_with_featured": "Blessings (Ft.\u00a0Drake & Kanye\u00a0West)",
+       "url": "https://genius.com/Big-sean-blessings-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/492",
+        "header_image_url": "https://images.genius.com/9993d1270da8380d4db0f5b2dc2ddce5.747x363x1.jpg",
+        "id": 492,
+        "image_url": "https://images.genius.com/a74b4f7cd37f14bd8cdb146422a96690.309x309x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Big Sean",
+        "url": "https://genius.com/artists/Big-sean",
+        "iq": 17609
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/75017",
+     "header_image_url": "https://images.genius.com/04078fcc5310fa98792b456da55dcdfe.300x300x1.png",
+     "id": 75017,
+     "image_url": "https://images.genius.com/04078fcc5310fa98792b456da55dcdfe.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dean Dillon",
+     "url": "https://genius.com/artists/Dean-dillon"
+    },
+    {
+     "api_path": "/artists/15101",
+     "header_image_url": "https://images.genius.com/b0d4a6ebeea27a150f9cb511da9efe1f.1000x525x1.jpg",
+     "id": 15101,
+     "image_url": "https://images.genius.com/25eec5e20ce0b44f1df03149bcdc0f64.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Strait",
+     "url": "https://genius.com/artists/George-strait"
+    },
+    {
+     "api_path": "/artists/1664374",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+     "id": 1664374,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bubba Strait",
+     "url": "https://genius.com/artists/Bubba-strait"
+    }
+   ],
+   "artist": "George Strait",
+   "lyrics": "[Verse 1]\nI am not gonna lay around and whine and moan for somebody that done me wrong\nDon't think for a minute that I am gonna sit around and sing some old sad song\nI believe it's half full not a half empty glass\nEvery day I wake up knowing it could be my last\n\n[Chorus]\nI ain't here for a long time\nI'm here for a good time\nSo bring on the sunshine, to hell with the red wine\nPour me some moonshine\nWhen I'm gone put it in stone \"He left nothing behind\"\nI ain't here for a long time\nI'm here for a good time\n\n[Verse 2]\nFolks are always dreaming about what they like to do but I like to do just what I like\nI take the chance, dance the dance, it might be wrong but then again it might be right\nThere's no way of knowing what tomorrow brings\nLife's too short to waste it I say bring on anything\n\n[Chorus]\nI ain't here for a long time\nI'm here for a good time\nSo bring on the sunshine, to hell with the red wine\nPour me some moonshine\nWhen I'm gone put it in stone \"He left nothing behind\"\nI ain't here for a long time\nI'm here for a good time\nI ain't here for a long time\nI'm here for a good timeEmbedShare URLCopyEmbedCopy"
+  }
+ ]
+}

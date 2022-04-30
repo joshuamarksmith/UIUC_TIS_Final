@@ -1,0 +1,1581 @@
+{
+ "alternate_names": [
+  "UTRB"
+ ],
+ "api_path": "/artists/57350",
+ "description": {
+  "plain": "Until The Ribbon Breaks, sometimes known as just \u201cUTRB,\u201d is a British band consisting of Pete Lawrie-Winfield, James Gordon and Elliot Wall. The band was founded in Cardiff, Wales in 2012. Their music blends genres like electronic, pop, rock, and hip-hop, but it\u2019s all done with a sharp alternative edge and a dark, sometimes even creepy tone."
+ },
+ "facebook_name": "untiltheribbonbreaks",
+ "followers_count": 18,
+ "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+ "id": 57350,
+ "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+ "instagram_name": "untiltheribbonbreaks",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Until The Ribbon Breaks",
+ "translation_artist": false,
+ "twitter_name": "UTRB",
+ "url": "https://genius.com/artists/Until-the-ribbon-breaks",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3355833,
+  "annotator_login": "Balkei",
+  "api_path": "/referents/6973950",
+  "classification": "accepted",
+  "fragment": "Until The Ribbon Breaks",
+  "id": 6973950,
+  "is_description": true,
+  "path": "/6973950/Until-the-ribbon-breaks/Until-the-ribbon-breaks",
+  "range": {
+   "content": "Until The Ribbon Breaks"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6973950/Until-the-ribbon-breaks/Until-the-ribbon-breaks",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/57350",
+   "context": null,
+   "id": 57350,
+   "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+   "link_title": "Until The Ribbon Breaks",
+   "title": "Until The Ribbon Breaks",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6973950",
+    "body": {
+     "plain": "Until The Ribbon Breaks, sometimes known as just \u201cUTRB,\u201d is a British band consisting of Pete Lawrie-Winfield, James Gordon and Elliot Wall. The band was founded in Cardiff, Wales in 2012. Their music blends genres like electronic, pop, rock, and hip-hop, but it\u2019s all done with a sharp alternative edge and a dark, sometimes even creepy tone."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6973950,
+    "pinned": false,
+    "share_url": "https://genius.com/6973950",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6973950/Until-the-ribbon-breaks/Until-the-ribbon-breaks",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3355833",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f2eb2da6bf6b9bc24cbded0f8a95a66f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f2eb2da6bf6b9bc24cbded0f8a95a66f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f2eb2da6bf6b9bc24cbded0f8a95a66f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f2eb2da6bf6b9bc24cbded0f8a95a66f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/7e2933636ba94d9e193e37fa6ea4fb8c.1000x512x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 3355833,
+       "iq": 136185,
+       "login": "Balkei",
+       "name": "Balkei",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Balkei",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2196145",
+   "artist_names": "Until The Ribbon Breaks",
+   "full_title": "One Way Or Another by\u00a0Until\u00a0The Ribbon Breaks",
+   "header_image_thumbnail_url": "https://images.genius.com/662c4443ca8da794a1de41de720373bc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/662c4443ca8da794a1de41de720373bc.700x700x1.jpg",
+   "id": 2196145,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Until-the-ribbon-breaks-one-way-or-another-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/662c4443ca8da794a1de41de720373bc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/662c4443ca8da794a1de41de720373bc.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 23107
+   },
+   "title": "One Way Or Another",
+   "title_with_featured": "One Way Or Another",
+   "url": "https://genius.com/Until-the-ribbon-breaks-one-way-or-another-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/57350",
+    "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+    "id": 57350,
+    "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Until The Ribbon Breaks",
+    "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+   },
+   "apple_music_id": "934357455",
+   "apple_music_player_url": "https://genius.com/songs/2196145/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2196145' class='rg_embed_link' data-song-id='2196145'>Read <a href='https://genius.com/Until-the-ribbon-breaks-one-way-or-another-lyrics'>\u201cOne Way Or Another\u201d by Until\u00a0The Ribbon Breaks</a> on Genius</div> <script crossorigin src='//genius.com/songs/2196145/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-10-29",
+   "release_date_for_display": "October 29, 2014",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117961",
+    "cover_art_url": "https://images.genius.com/b5e359ef7c21e92785f8811766714212.1000x1000x1.jpg",
+    "full_title": "A Lesson Unlearnt by Until The Ribbon Breaks",
+    "id": 117961,
+    "name": "A Lesson Unlearnt",
+    "url": "https://genius.com/albums/Until-the-ribbon-breaks/A-lesson-unlearnt",
+    "artist": {
+     "api_path": "/artists/57350",
+     "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+     "id": 57350,
+     "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Until The Ribbon Breaks",
+     "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1010433",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "id": 1010433,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elliot Wall",
+       "url": "https://genius.com/artists/Elliot-wall"
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/635457",
+       "header_image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "id": 635457,
+       "image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "James Gordon",
+       "url": "https://genius.com/artists/James-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Guitarist",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7300066",
+    "classification": "needs_exegesis",
+    "fragment": "One Way Or Another",
+    "id": 7300066,
+    "is_description": true,
+    "path": "/7300066/Until-the-ribbon-breaks-one-way-or-another/One-way-or-another",
+    "range": {
+     "content": "One Way Or Another"
+    },
+    "song_id": 2196145,
+    "url": "https://genius.com/7300066/Until-the-ribbon-breaks-one-way-or-another/One-way-or-another",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2196145",
+     "client_timestamps": {
+      "updated_by_human_at": 1502632206,
+      "lyrics_updated_at": 1466141520
+     },
+     "context": "Until The Ribbon Breaks",
+     "id": 2196145,
+     "image_url": "https://images.genius.com/662c4443ca8da794a1de41de720373bc.700x700x1.jpg",
+     "link_title": "One Way Or Another by\u00a0Until\u00a0The Ribbon Breaks",
+     "title": "One Way Or Another",
+     "type": "Song",
+     "url": "https://genius.com/Until-the-ribbon-breaks-one-way-or-another-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7300066",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 7300066,
+      "pinned": false,
+      "share_url": "https://genius.com/7300066",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7300066/Until-the-ribbon-breaks-one-way-or-another/One-way-or-another",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gpHWbUhVY2w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/99766",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 99766,
+     "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Lawrie-Winfield",
+     "url": "https://genius.com/artists/Pete-lawrie-winfield"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/192076",
+       "artist_names": "Blondie",
+       "full_title": "One Way or Another by\u00a0Blondie",
+       "header_image_thumbnail_url": "https://images.genius.com/4e520bb24041031ac0a0c5a731c7bb0f.300x300x1.png",
+       "header_image_url": "https://images.genius.com/4e520bb24041031ac0a0c5a731c7bb0f.1000x1000x1.png",
+       "id": 192076,
+       "lyrics_owner_id": 16,
+       "lyrics_state": "complete",
+       "path": "/Blondie-one-way-or-another-lyrics",
+       "pyongs_count": 9,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d2e37581ee17cd3647d172a7e7dc8ffd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d2e37581ee17cd3647d172a7e7dc8ffd.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 96519
+       },
+       "title": "One Way or Another",
+       "title_with_featured": "One Way or Another",
+       "url": "https://genius.com/Blondie-one-way-or-another-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/8227",
+        "header_image_url": "https://images.genius.com/86b11d03566c4937379a4f9099fecdf1.480x360x1.jpg",
+        "id": 8227,
+        "image_url": "https://images.genius.com/237457393b28afc7b0538d2a6b937637.853x853x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Blondie",
+        "url": "https://genius.com/artists/Blondie"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/118226",
+     "header_image_url": "https://images.genius.com/df92fcb7a9a9c1b6b6f8e3be0536a6ab.1000x667x1.jpg",
+     "id": 118226,
+     "image_url": "https://images.genius.com/c4ceee1d20ba11d7c4a78e3ed094c643.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Debbie Harry",
+     "url": "https://genius.com/artists/Debbie-harry"
+    },
+    {
+     "api_path": "/artists/540398",
+     "header_image_url": "https://images.genius.com/b13c8d479b742220fbec440ecfe91567.216x216x1.jpg",
+     "id": 540398,
+     "image_url": "https://images.genius.com/b13c8d479b742220fbec440ecfe91567.216x216x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nigel Harrison",
+     "url": "https://genius.com/artists/Nigel-harrison"
+    }
+   ],
+   "artist": "Until The Ribbon Breaks",
+   "lyrics": "One way or another, I'm gonna find you\nI'm gonna get you\nOne way or another, I'm gonna win you\nI'm gonna get you, get you\nOne way or another, I'm gonna see you\nI'm gonna meet you\nOne day, maybe next week\nI'm gonna meet you, I'm gonna meet you\n\nAnd I will drive by your house\nAnd if the lights are all down\nThen I'll see who's around\n\nOne way or another, I'm gonna find you\nI'm gonna get you\nAnd one way or another, I'm gonna win you\nI'm gonna get you, get you\nOne way or another, I'm gonna see you\nI'm gonna meet you, meet you\nOne day, maybe next week\nI'm gonna meet you, I'm gonna meet you\n\nAnd if the lights are all out\nOh I will follow your bus downtown\nThen I'll see who's around, who's around\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\n\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\n\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\n\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\n\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\n\nI'll walk down the mall\nStand over by the wall\nWhere I can see it all\nFind out who you call\nI will drive by your house\nAnd if the lights are all down\nThen I'll see who's aroundEmbedShare URLCopyEmbedCopy"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/277949",
+   "artist_names": "Until The Ribbon Breaks",
+   "full_title": "Romeo by\u00a0Until\u00a0The Ribbon Breaks",
+   "header_image_thumbnail_url": "https://images.genius.com/f8ecb13c5483916b82f0ab4e30d81520.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f8ecb13c5483916b82f0ab4e30d81520.500x500x1.jpg",
+   "id": 277949,
+   "lyrics_owner_id": 278412,
+   "lyrics_state": "complete",
+   "path": "/Until-the-ribbon-breaks-romeo-lyrics",
+   "pyongs_count": 3,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f8ecb13c5483916b82f0ab4e30d81520.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f8ecb13c5483916b82f0ab4e30d81520.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14173
+   },
+   "title": "Romeo",
+   "title_with_featured": "Romeo",
+   "url": "https://genius.com/Until-the-ribbon-breaks-romeo-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/57350",
+    "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+    "id": 57350,
+    "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Until The Ribbon Breaks",
+    "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+   },
+   "apple_music_id": "920069528",
+   "apple_music_player_url": "https://genius.com/songs/277949/apple_music_player",
+   "description": {
+    "plain": "This poignant track off of A Lesson Unlearnt describes how it feels to be in the aftermath of a relationship. This song refers to the classic tragic love story of Romeo and Juliet by Shakespeare, giving the song an extra romantic edge, the reference, lyrics and musical elements all coming together to create a feeling of sorrow.\n\nIn an interview, Pete Lawrie-Winfield, the band\u2019s lead singer, talked about the song:\n\nIf there was a line that sums up the whole song, it would be, \u201cYou\u2019re been looking for meaning, did you like what you found?\u201d because it\u2019s actually about the chase for a feeling, the concept of love, I suppose, the constant need and lamost addiction to it. It\u2019s asking once you achieve that or attain that, what\u2019s next?\n\nhttps://www.youtube.com/watch?v=vxG4DcVFbh0"
+   },
+   "embed_content": "<div id='rg_embed_link_277949' class='rg_embed_link' data-song-id='277949'>Read <a href='https://genius.com/Until-the-ribbon-breaks-romeo-lyrics'>\u201cRomeo\u201d by Until\u00a0The Ribbon Breaks</a> on Genius</div> <script crossorigin src='//genius.com/songs/277949/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-10",
+   "release_date_for_display": "September 10, 2013",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/117961",
+    "cover_art_url": "https://images.genius.com/b5e359ef7c21e92785f8811766714212.1000x1000x1.jpg",
+    "full_title": "A Lesson Unlearnt by Until The Ribbon Breaks",
+    "id": 117961,
+    "name": "A Lesson Unlearnt",
+    "url": "https://genius.com/albums/Until-the-ribbon-breaks/A-lesson-unlearnt",
+    "artist": {
+     "api_path": "/artists/57350",
+     "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+     "id": 57350,
+     "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Until The Ribbon Breaks",
+     "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Produced By",
+     "artists": [
+      {
+       "api_path": "/artists/635457",
+       "header_image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "id": 635457,
+       "image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "James Gordon",
+       "url": "https://genius.com/artists/James-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1010433",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "id": 1010433,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elliot Wall",
+       "url": "https://genius.com/artists/Elliot-wall"
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/635457",
+       "header_image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "id": 635457,
+       "image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "James Gordon",
+       "url": "https://genius.com/artists/James-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Guitarist",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3264052,
+    "annotator_login": "Zestychild",
+    "api_path": "/referents/3755994",
+    "classification": "unreviewed",
+    "fragment": "Romeo",
+    "id": 3755994,
+    "is_description": true,
+    "path": "/3755994/Until-the-ribbon-breaks-romeo/Romeo",
+    "range": {
+     "content": "Romeo"
+    },
+    "song_id": 277949,
+    "url": "https://genius.com/3755994/Until-the-ribbon-breaks-romeo/Romeo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/277949",
+     "client_timestamps": {
+      "updated_by_human_at": 1571444670,
+      "lyrics_updated_at": 1571444670
+     },
+     "context": "Until The Ribbon Breaks",
+     "id": 277949,
+     "image_url": "https://images.genius.com/f8ecb13c5483916b82f0ab4e30d81520.500x500x1.jpg",
+     "link_title": "Romeo by\u00a0Until\u00a0The Ribbon Breaks",
+     "title": "Romeo",
+     "type": "Song",
+     "url": "https://genius.com/Until-the-ribbon-breaks-romeo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3755994",
+      "body": {
+       "plain": "This poignant track off of A Lesson Unlearnt describes how it feels to be in the aftermath of a relationship. This song refers to the classic tragic love story of Romeo and Juliet by Shakespeare, giving the song an extra romantic edge, the reference, lyrics and musical elements all coming together to create a feeling of sorrow.\n\nIn an interview, Pete Lawrie-Winfield, the band\u2019s lead singer, talked about the song:\n\nIf there was a line that sums up the whole song, it would be, \u201cYou\u2019re been looking for meaning, did you like what you found?\u201d because it\u2019s actually about the chase for a feeling, the concept of love, I suppose, the constant need and lamost addiction to it. It\u2019s asking once you achieve that or attain that, what\u2019s next?\n\nhttps://www.youtube.com/watch?v=vxG4DcVFbh0"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3755994,
+      "pinned": false,
+      "share_url": "https://genius.com/3755994",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/3755994/Until-the-ribbon-breaks-romeo/Romeo",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3264052",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3ca64f34febefd5099d02543ad86ad69",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3ca64f34febefd5099d02543ad86ad69",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3ca64f34febefd5099d02543ad86ad69",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3ca64f34febefd5099d02543ad86ad69",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/t2IQR2hRpe6CMJpIb2zA_YO.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3264052,
+         "iq": 42397,
+         "login": "Zestychild",
+         "name": "Zestychild",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Zestychild",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vxG4DcVFbh0"
+    },
+    {
+     "native_uri": "spotify:track:32CKeVUg6lxM7fW2xzMlm8",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/32CKeVUg6lxM7fW2xzMlm8"
+    },
+    {
+     "attribution": "untiltheribbonbreaks",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/untiltheribbonbreaks/romeo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/324595",
+     "header_image_url": "https://images.genius.com/b72a18b2b732a2409b7153c03e36a1e1.390x390x1.jpg",
+     "id": 324595,
+     "image_url": "https://images.genius.com/b72a18b2b732a2409b7153c03e36a1e1.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rollo Armstrong",
+     "url": "https://genius.com/artists/Rollo-armstrong"
+    },
+    {
+     "api_path": "/artists/99766",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 99766,
+     "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Lawrie-Winfield",
+     "url": "https://genius.com/artists/Pete-lawrie-winfield"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/99766",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 99766,
+     "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Lawrie-Winfield",
+     "url": "https://genius.com/artists/Pete-lawrie-winfield"
+    }
+   ],
+   "artist": "Until The Ribbon Breaks",
+   "lyrics": "[Verse 1]\nFirst in line\nFor the wishing well, well, well\nFor a long time\nCan't you tell?\nFirst in line\nGive me a new start\nGive me a new page\n\n[Chorus]\nYou see I would have killed Romeo and saved Juliet\nBut I don't write stories that time won't forget\nSo won't you pass me the kerosene?\nLet's burn to the ground\nYou've been looking for meaning\nDid you like what you found?\n\n[Post-Chorus]\nForgive me, I've been lonely\nBut it's not like I don't know my way\nBut I don't know my way\n\n[Verse 2]\nOh look at you all shining\nAnd didn't you do well, well, well, well\nFor a long time\nI could not tell you my secret\nI don't know where to go from here\nGive me a new page\nThere are some things that will never change\n[Chorus]\nYou see I would have killed Romeo and saved Juliet\nBut I don't write stories that time won't forget\nSo won't you pass me the kerosene?\nLet's burn to the ground\nYou've been looking for meaning\nDid you like what you found?\n\n[Post-Chorus]\nForgive me I've been lonely\nBut it's not like I don't know my way\nBut I don't know my way\n\n[Bridge]\nOh, Romeo\nOh, Romeo\nOh, Romeo\nOh, Romeo\nOh, Romeo\n\n[Post-Chorus]\nForgive me, I've been lonely\nBut it's not like I don't know my way\nBut I don't know my way3EmbedShare URLCopyEmbedCopy"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/2476696",
+   "artist_names": "Until The Ribbon Breaks",
+   "full_title": "Goodnight America by\u00a0Until\u00a0The Ribbon Breaks",
+   "header_image_thumbnail_url": "https://images.genius.com/3ef27434e9cd6effcae511343820fc9b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3ef27434e9cd6effcae511343820fc9b.1000x1000x1.jpg",
+   "id": 2476696,
+   "lyrics_owner_id": 1373359,
+   "lyrics_state": "complete",
+   "path": "/Until-the-ribbon-breaks-goodnight-america-lyrics",
+   "pyongs_count": 5,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3ef27434e9cd6effcae511343820fc9b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3ef27434e9cd6effcae511343820fc9b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 13365
+   },
+   "title": "Goodnight America",
+   "title_with_featured": "Goodnight America",
+   "url": "https://genius.com/Until-the-ribbon-breaks-goodnight-america-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/57350",
+    "header_image_url": "https://images.genius.com/09290092d5e1a8cce34f0a2b9b1d8135.1000x667x1.jpg",
+    "id": 57350,
+    "image_url": "https://images.genius.com/e923c098fb33f63964a701ae5c042f1f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Until The Ribbon Breaks",
+    "url": "https://genius.com/artists/Until-the-ribbon-breaks"
+   },
+   "apple_music_id": "1114572710",
+   "apple_music_player_url": "https://genius.com/songs/2476696/apple_music_player",
+   "description": {
+    "plain": "\u201cGoodnight America\u201d, according to frontman Pete Lawrie Winfield, is \u201cpro America, anti creeping nausea, pro choice, anti anything else.\u201d The song gained some traction after it was used on Sacha Baron Cohen\u2019s 2018  political satire series Who Is America?.\n\nThe music video contains footage from Donald Trump rallies, police violence, nuclear bomb tests, and more. The song in particular takes aim at Donald Trump, who has been a very controversial presidential candidate for the 2016 Election, and bashes the ideas that he has had such as \u2018building a wall to keep the Mexicans out\u2019, as well as him gloating of his wealth.\n\nIn an article from Pitchfork, Lawrie stated:\n\nIt would have been nice to have seen through my daydream, to have drawn the blinds, battened down the hatches and pretended that the country that I now call home, a country that I love, wasn\u2019t falling victim to some kind of cartoonish nightmare. This song is pro America, anti creeping nausea, pro choice, anti anything else. To dissect it too much, to feel the need to explain it seems unnecessary. We are all privy to the same information now, we are all awake."
+   },
+   "embed_content": "<div id='rg_embed_link_2476696' class='rg_embed_link' data-song-id='2476696'>Read <a href='https://genius.com/Until-the-ribbon-breaks-goodnight-america-lyrics'>\u201cGoodnight America\u201d by Until\u00a0The Ribbon Breaks</a> on Genius</div> <script crossorigin src='//genius.com/songs/2476696/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-05-20",
+   "release_date_for_display": "May 20, 2016",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1010433",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "id": 1010433,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1635954329",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elliot Wall",
+       "url": "https://genius.com/artists/Elliot-wall"
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/635457",
+       "header_image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "id": 635457,
+       "image_url": "https://images.genius.com/49b53e472d440fbf139984298153a2ed.250x250x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "James Gordon",
+       "url": "https://genius.com/artists/James-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Guitarist",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/99766",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 99766,
+       "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Lawrie-Winfield",
+       "url": "https://genius.com/artists/Pete-lawrie-winfield"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1373359,
+    "annotator_login": "Jailbirds",
+    "api_path": "/referents/9189797",
+    "classification": "accepted",
+    "fragment": "Goodnight America",
+    "id": 9189797,
+    "is_description": true,
+    "path": "/9189797/Until-the-ribbon-breaks-goodnight-america/Goodnight-america",
+    "range": {
+     "content": "Goodnight America"
+    },
+    "song_id": 2476696,
+    "url": "https://genius.com/9189797/Until-the-ribbon-breaks-goodnight-america/Goodnight-america",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2476696",
+     "client_timestamps": {
+      "updated_by_human_at": 1571444626,
+      "lyrics_updated_at": 1571444626
+     },
+     "context": "Until The Ribbon Breaks",
+     "id": 2476696,
+     "image_url": "https://images.genius.com/3ef27434e9cd6effcae511343820fc9b.1000x1000x1.jpg",
+     "link_title": "Goodnight America by\u00a0Until\u00a0The Ribbon Breaks",
+     "title": "Goodnight America",
+     "type": "Song",
+     "url": "https://genius.com/Until-the-ribbon-breaks-goodnight-america-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9189797",
+      "body": {
+       "plain": "\u201cGoodnight America\u201d, according to frontman Pete Lawrie Winfield, is \u201cpro America, anti creeping nausea, pro choice, anti anything else.\u201d The song gained some traction after it was used on Sacha Baron Cohen\u2019s 2018  political satire series Who Is America?.\n\nThe music video contains footage from Donald Trump rallies, police violence, nuclear bomb tests, and more. The song in particular takes aim at Donald Trump, who has been a very controversial presidential candidate for the 2016 Election, and bashes the ideas that he has had such as \u2018building a wall to keep the Mexicans out\u2019, as well as him gloating of his wealth.\n\nIn an article from Pitchfork, Lawrie stated:\n\nIt would have been nice to have seen through my daydream, to have drawn the blinds, battened down the hatches and pretended that the country that I now call home, a country that I love, wasn\u2019t falling victim to some kind of cartoonish nightmare. This song is pro America, anti creeping nausea, pro choice, anti anything else. To dissect it too much, to feel the need to explain it seems unnecessary. We are all privy to the same information now, we are all awake."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9189797,
+      "pinned": false,
+      "share_url": "https://genius.com/9189797",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9189797/Until-the-ribbon-breaks-goodnight-america/Goodnight-america",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8963730569948187,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1373359",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/60efcb3343eecf74ddee0eec18d34fd3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/60efcb3343eecf74ddee0eec18d34fd3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/60efcb3343eecf74ddee0eec18d34fd3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/60efcb3343eecf74ddee0eec18d34fd3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/60efcb3343eecf74ddee0eec18d34fd3",
+         "human_readable_role_for_display": "Editor",
+         "id": 1373359,
+         "iq": 127104,
+         "login": "Jailbirds",
+         "name": "Jailbirds",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Jailbirds",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.10362694300518134,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/197386",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/55b07e896af52f75c496a3aca971a7dd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/55b07e896af52f75c496a3aca971a7dd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/55b07e896af52f75c496a3aca971a7dd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/55b07e896af52f75c496a3aca971a7dd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/nesixby6dz",
+         "human_readable_role_for_display": "Contributor",
+         "id": 197386,
+         "iq": 57928,
+         "login": "ezw99",
+         "name": "ezw99",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ezw99",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1_-tZiQUy2Y"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/99766",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 99766,
+     "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Lawrie-Winfield",
+     "url": "https://genius.com/artists/Pete-lawrie-winfield"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/99766",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 99766,
+     "image_url": "https://images.genius.com/5fed450b6e4e3bd056e828f4ce69071a.186x186x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Lawrie-Winfield",
+     "url": "https://genius.com/artists/Pete-lawrie-winfield"
+    }
+   ],
+   "artist": "Until The Ribbon Breaks",
+   "lyrics": "[Verse 1]\nOver and over, so right wing that you might tip over\nI need a hospital, I need a clinic\nI need a reason not to be a cynic\nI'm so straight, I'm so white\nMy God, I'll sleep well tonight\nLook at this retard, he's so dumb\nThis is America, sucking on its thumb\n\n[Pre-Chorus]\nLet's fire up the electric chair\nThree cheers for the billionaire\nCoca-Cola and your favourite prayer\nGoodnight, goodnight, goodnight\n\n[Chorus]\nOne more night\nBeneath the stars, beneath the stripes\nOne more night\nGoodnight, goodnight, goodnight\nGoodnight America\n\n[Refrain]\n(Woo)\n(Woo)\nGoodnight America\n(Woo)\n(Woo)\n[Verse 2]\nOver and over\nWe've got guns, you should all come over\nActually, just some of you, let's build a wall\nActually, I'm rich! So fuck you all\nA thousand bullets, oh, what a sight\nMy God, I'll sleep well tonight\nAmbien, Ambien, sing me to sleep\nThis is America, you are what you eat\n\n[Pre-Chorus]\nLet's fire up the electric chair\nThree cheers for the billionaire\nCoca-Cola and your favourite prayer\nGoodnight, goodnight, goodnight\n\n[Chorus]\nOne more night\nBeneath the stars, beneath the stripes\nOne more night\nGoodnight, goodnight, goodnight\nGoodnight America\n\n[Bridge]\nBaby, baby, baby, baby\nI wish you all the best\nBaby, baby\nI'll be in the corner with my bulletproof vest, yes\n[Pre-Chorus]\nLet's fire up the electric chair\nThree cheers for the billionaire\nGunpowder\u200b in the desert air\nGoodnight, goodnight, goodnight\n\n[Chorus]\nOne more night\nBeneath the stars, beneath the stripes\nOne more night\nGoodnight, goodnight, goodnight\nGoodnight America\n\n[Chorus]\nOne more night\nBeneath the stars, beneath the stripes\nOne more night\nGoodnight, goodnight, goodnight\n\n[Outro]\n(Woo)\n(Woo)\nGoodnight America5EmbedShare URLCopyEmbedCopy"
+  }
+ ]
+}

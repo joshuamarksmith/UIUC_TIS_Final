@@ -1,0 +1,6 @@
+stop-words = "stopwords.txt"
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+filter = "default-unigram-chain"
