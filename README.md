@@ -1,7 +1,7 @@
-# CS410 Final Project: Improved Media Content Search
+# Text Information Systems, Final Project: Improved Media Content Search (IMCS)
 University of Illinois Urbana-Champaign, Fall 2021  
 Professor ChengXiang Zhai  
-Team "Bae Area": Brayden Turner and Joshua Smith
+Brayden Turner and Joshua Smith
 
 ## Installation
 Improved Media (Music) Content Search (IMCS) runs via an interactive Jupyter Notebook supported by Python 3.7+. Download the LyricSearch.ipynb file and run the cells to import the necessary libraries, scrape lyric data from Genius, and load the model.
