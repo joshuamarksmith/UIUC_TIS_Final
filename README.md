@@ -1,7 +1,10 @@
-# Text Information Systems, Final Project: Improved Media Content Search (IMCS)
-University of Illinois Urbana-Champaign, Fall 2021  
-Professor ChengXiang Zhai  
-Brayden Turner and Joshua Smith
+# Improved Media Content Search (IMCS)
+Text Information Systems, Final Project  
+Professor ChengXiang Zhai    
+Brayden Turner and Joshua Smith  
+
+University of Illinois Urbana-Champaign, Fall 2021 Semester  
+Master of Computer Science (MCS) Program  
 
 ## Installation
 Improved Media (Music) Content Search (IMCS) runs via an interactive Jupyter Notebook supported by Python 3.7+. Download the LyricSearch.ipynb file and run the cells to import the necessary libraries, scrape lyric data from Genius, and load the model.
